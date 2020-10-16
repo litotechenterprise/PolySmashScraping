@@ -1,0 +1,1 @@
+Using for the scrapping of poly smash, exports the file as a CSV
